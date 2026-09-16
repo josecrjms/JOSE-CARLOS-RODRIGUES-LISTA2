@@ -1,0 +1,72 @@
+body {
+    background-color: #a5a5ff;
+
+    font-family: Arial, sans-serif;
+
+    text-align: center;
+}
+
+
+h1 {
+    color: white;
+}
+
+
+section {
+    background-color: white;
+
+    width: 500px;
+
+    margin: auto;
+
+    padding: 25px;
+
+    border-radius: 8px;
+
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+.campo {
+    margin-bottom: 15px;
+}
+
+
+input {
+    padding: 5px;
+}
+
+
+button {
+    padding: 6px 15px;
+
+    cursor: pointer;
+}
+
+
+#resultado {
+    margin-top: 20px;
+}
+
+
+#foto {
+    display: none;
+
+    width: 250px;
+    height: 250px;
+
+    object-fit: cover;
+
+    border-radius: 50%;
+
+    margin: 20px auto;
+}
+
+
+footer {
+    color: white;
+
+    margin-top: 15px;
+
+    font-style: italic;
+}
